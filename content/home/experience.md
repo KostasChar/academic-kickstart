@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "SDN Engineer"
-  company = "NCSR "DEMOKRITOS", Internet Systematics Lab"
+  company = """NCSR "DEMOKRITOS" - Internet Systematics Lab"""
   company_url = ""
   location = "Greece"
   date_start = "2016-10-01"
