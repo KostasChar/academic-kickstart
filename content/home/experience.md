@@ -26,9 +26,7 @@ date_format = "Jan 2006"
   date_start = "2016-10-04"
   date_end = "2018-05-11"
   
-  
-+++
-
+"""  
 [[experience]]
   title = "SDN Engineer"
   company = "NCSR "DEMOKRITOS" - Internet Systematics Lab"
