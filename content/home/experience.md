@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Greece"
   date_start = "2017-01-01"
   date_end = ""
-  description = """ 
+  description = "" 
   
   
   
@@ -36,6 +36,6 @@ date_format = "Jan 2006"
   location = "Greece"
   date_start = "2016-10-01"
   date_end = "2016-03-31"
-  description = """ 
+  description = ""
 
 +++
