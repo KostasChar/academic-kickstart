@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "ΙΤ Engineer"
+  company = "Hellenic Navy General Staff"
+  company_url = ""
+  location = "Greece"
+  date_start = "2019-02-01"
+
+
+[[experience]]
   title = "SDN Engineer"
   company = """NCSR "DEMOKRITOS" - Internet Systematics Lab"""
   company_url = ""
@@ -32,7 +40,7 @@ date_format = "Jan 2006"
   company = "Intracom Telecom S.A."
   company_url = ""
   location = "Greece"
-  date_start = "2016-10-04"
-  date_end = "2018-05-11"
+  date_start = "2016-04-01"
+  date_end = "2018-11-05"
 
 +++
