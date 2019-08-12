@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: -
+role: TBD
 
 # Organizations/Affiliations
 organizations:
-- name: -
+- name: TBD
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Complete BIO here 
+ Complete BIO here 
