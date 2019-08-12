@@ -27,15 +27,6 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "SDN Engineer"
-  company = """NCSR "DEMOKRITOS" - Internet Systematics Lab"""
-  company_url = ""
-  location = "Greece"
-  date_start = "2016-10-01"
-  date_end = "2016-03-31"
-
-
-[[experience]]
   title = "R&D Engineer"
   company = "Intracom Telecom S.A."
   company_url = ""
@@ -43,4 +34,11 @@ date_format = "Jan 2006"
   date_start = "2016-04-01"
   date_end = "2018-11-05"
 
+[[experience]]
+  title = "SDN Engineer"
+  company = """NCSR "DEMOKRITOS" - Internet Systematics Lab"""
+  company_url = ""
+  location = "Greece"
+  date_start = "2015-10-01"
+  date_end = "2016-03-31"
 +++
