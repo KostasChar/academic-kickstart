@@ -14,7 +14,7 @@ role: TBD
 
 # Organizations/Affiliations
 organizations:
-- name: TBD
+- name: Contact me: kchartsias(at)yahoo.gr
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
